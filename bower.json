@@ -1,12 +1,14 @@
 {
-	"name": "thread",
-	"repo": "marshallbu/thread",
-	"version": "1.0.1",
-	"scripts": ["index.js"],
-	"dependencies": {
-		"marshallbu/event": "*"
-	},
-	"main": "index.js",
+  "name": "thread",
+  "repo": "marshallbu/thread",
+  "version": "1.0.1",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "marshallbu/event": "*"
+  },
+  "main": "index.js",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,4 +17,9 @@
     "test",
     "tests"
   ],
+  "license": "MIT",
+  "homepage": "https://github.com/marshallbu/thread",
+  "moduleType": [
+    "amd"
+  ]
 }
