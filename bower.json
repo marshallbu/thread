@@ -6,7 +6,7 @@
     "index.js"
   ],
   "dependencies": {
-    "marshallbu/event": "*"
+    "event": "marshallbu/event"
   },
   "main": "index.js",
   "ignore": [
