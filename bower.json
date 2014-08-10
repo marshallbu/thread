@@ -1,9 +1,10 @@
 {
 	"name": "thread",
+	"repo": "marshallbu/thread",
 	"version": "1.0.1",
 	"scripts": ["index.js"],
 	"dependencies": {
-		"git://github.com/marshallbu/event.git": "*"
+		"marshallbu/event": "*"
 	},
 	"main": "index.js",
   "private": true,
