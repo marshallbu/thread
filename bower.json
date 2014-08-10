@@ -3,7 +3,7 @@
 	"version": "1.0.1",
 	"scripts": ["index.js"],
 	"dependencies": {
-		"marshallbu/event": "*"
+		"https://github.com/marshallbu/event.git": "*"
 	},
 	"main": "index.js",
   "private": true,
